@@ -6,7 +6,8 @@ import java.util.Scanner;
 //losa praksa koristiti kombinovane operatore
 //System.exit(0) prekida program
 
-public class Main {
+public class
+Main {
 
     public static void main(String[] args) {
 	// write your code here
